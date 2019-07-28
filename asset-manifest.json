@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/monster/static/css/main.87d75a6b.chunk.css",
+    "main.js": "/monster/static/js/main.8b576528.chunk.js",
+    "main.js.map": "/monster/static/js/main.8b576528.chunk.js.map",
+    "runtime~main.js": "/monster/static/js/runtime~main.488aa6c8.js",
+    "runtime~main.js.map": "/monster/static/js/runtime~main.488aa6c8.js.map",
+    "static/css/2.b54df117.chunk.css": "/monster/static/css/2.b54df117.chunk.css",
+    "static/js/2.65aa1cca.chunk.js": "/monster/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monster/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monster/index.html",
+    "precache-manifest.aa8f18e7122e42f22a3b94f265701ca1.js": "/monster/precache-manifest.aa8f18e7122e42f22a3b94f265701ca1.js",
+    "service-worker.js": "/monster/service-worker.js",
+    "static/css/2.b54df117.chunk.css.map": "/monster/static/css/2.b54df117.chunk.css.map",
+    "static/css/main.87d75a6b.chunk.css.map": "/monster/static/css/main.87d75a6b.chunk.css.map",
+    "static/media/App.css": "/monster/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
