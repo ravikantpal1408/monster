@@ -2,6 +2,7 @@
   "name": "monster-rolerex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ravikantpal1408.github.io/monster",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
